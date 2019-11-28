@@ -1,6 +1,6 @@
-# Global-Terrorism-Analysis-Project
+# Global-Threat-Analysis-Project
 
-In this project we aim to perform regression analyses using Machine Learning algorithms to predict the impact that a terrorist attack will have on society. 
+In this project we aim to perform regression analyses using Machine Learning algorithms to predict the impact that a terror attack will have on society. 
 
 Libraries used: Pandas, Numpy, MatPlotLib, Seaborn, Sklearn, Keras (Tensorflow backend).
 
